@@ -1,0 +1,26 @@
+Библиотека telegraf (асинхронная)
+Database sqlite3
+
+
+заходим в vc code после чего пишем git clone ссылка репозитория
+
+после установки пишем npm install --save sqlite3  для работы в db
+npm install telegraf
+так же пакет node.js 
+
+(для лучше работы используйте разшерение в vs code SQLite3 Editor
+тогда база данных будет красиво отоброженна )
+
+
+так же если фаил tgbot будет в другой дериктории внутри него фаил может дать ошибку
+
+после чего пишем npm run start 5785269178:AAElUqKC8RqAR3mT52MmnQZJBysZYKpCDig (вставлть вместе с токеном) и заходим в @ithub_list_bot 
+команды /admin вызывает админ панель
+/start запуск
+так же есть строка 7 const token = process.argv[2] он хронит в себе токен
+вам нужно прописать в консоле npm run start 5785269178:AAElUqKC8RqAR3mT52MmnQZJBysZYKpCDig
+вместо с токеном
+
+
+
+если вы все правильно сделали то у вас все чики пуки
