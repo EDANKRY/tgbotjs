@@ -18,7 +18,7 @@ npm install telegraf
 команды /admin вызывает админ панель
 /start запуск
 так же есть строка 7 const token = process.argv[2] он хронит в себе токен
-вам нужно прописать в консоле npm run start 5785269178:AAElUqKC8RqAR3mT52MmnQZJBysZYKpCDig
+вам нужно прописать в консоле npm run start ваш токен
 вместо с токеном
 
 
